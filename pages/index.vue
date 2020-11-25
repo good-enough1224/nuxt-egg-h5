@@ -2,6 +2,7 @@
   <div class="container">
     <div>
       <Logo />
+      <nuxt-link to="/register">注册</nuxt-link>
     </div>
   </div>
 </template>
